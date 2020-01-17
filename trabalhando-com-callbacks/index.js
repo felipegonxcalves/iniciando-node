@@ -59,11 +59,3 @@ obterUsuario(function resolverUsuario(error, usuario) {
         });
     });
 });
-
-// obterUsuario(resolverUsuario);
-
-
-// const telefone = obterTelefone(usuario.id);
-
-
-// console.log('telefone', telefone);
